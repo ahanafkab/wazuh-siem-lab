@@ -77,7 +77,7 @@ After initial deployment and testing, the Wazuh dashboard showed:
 - **MITRE ATT&CK techniques identified:** Valid Accounts, Account Manipulation, Windows Service, Domain Policy Modification
 - **Both agents active:** `boxedmilktea` (Windows), `eyebot` (ThinkPad/Linux)
 
-  ## Dashboard Screenshot
+## Dashboard Screenshot
 ![Wazuh Dashboard](wazuh-dashboard.png)
 
 ---
