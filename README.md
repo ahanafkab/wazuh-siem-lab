@@ -112,8 +112,8 @@ After initial deployment and testing, the Wazuh dashboard showed:
 
 ## Next Steps
 
-- [ ] Install Sysmon on Windows endpoint with SwiftOnSecurity config for richer telemetry
-- [ ] Configure File Integrity Monitoring (FIM) on sensitive Windows directories
-- [ ] Write custom detection rules in `/var/ossec/etc/rules/`
-- [ ] Simulate attack scenarios using Metasploit and document triage process
-- [ ] Enable vulnerability detection module and analyze CVE findings
+-  Install Sysmon on Windows endpoint with SwiftOnSecurity config for richer telemetry
+-  Configure File Integrity Monitoring (FIM) on sensitive Windows directories
+-  Write custom detection rules in `/var/ossec/etc/rules/`
+-  Simulate attack scenarios using Metasploit and document triage process
+-  Enable vulnerability detection module and analyze CVE findings
