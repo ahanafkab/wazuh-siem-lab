@@ -97,7 +97,7 @@ After initial deployment and testing, the Wazuh dashboard showed:
 
 ## Tools & Technologies
 
-`Wazuh 4.14` `OpenSearch` `FedoraOS` `Windows 11` `UFW` `systemd` `PowerShell` `MITRE ATT&CK`
+`Wazuh 4.14` `OpenSearch` `Fedora Linux` `Windows 11` `UFW` `systemd` `PowerShell` `MITRE ATT&CK`
 
 ---
 
