@@ -8,7 +8,7 @@ A two-machine Security Information and Event Management (SIEM) lab built to deve
 
 | Machine | Role | OS |
 |---|---|---|
-| Lenovo ThinkPad P43s | Wazuh Server (Manager + Indexer + Dashboard) | Linux Mint |
+| Lenovo ThinkPad P43s | Wazuh Server (Manager + Indexer + Dashboard) | Fedora Linux |
 | Custom Gaming PC (RTX 3080) | Monitored Endpoint (Wazuh Agent) | Windows 11 |
 
 Both machines on the same local network, with the ThinkPad assigned a static IP via DHCP reservation on the AT&T gateway.
@@ -32,7 +32,7 @@ Both machines on the same local network, with the ThinkPad assigned a static IP 
 
 ## What I Built
 
-### Server Setup (Linux Mint)
+### Server Setup (Fedora Linux)
 - Deployed Wazuh all-in-one stack using the official installation assistant
 - Configured `config.yml` with static IP addressing for all three nodes
 - Generated SSL certificates for encrypted agent-server communication
@@ -97,7 +97,7 @@ After initial deployment and testing, the Wazuh dashboard showed:
 
 ## Tools & Technologies
 
-`Wazuh 4.14` `OpenSearch` `Linux Mint` `Windows 11` `UFW` `systemd` `PowerShell` `MITRE ATT&CK`
+`Wazuh 4.14` `OpenSearch` `FedoraOS` `Windows 11` `UFW` `systemd` `PowerShell` `MITRE ATT&CK`
 
 ---
 
